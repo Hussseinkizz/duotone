@@ -1,0 +1,60 @@
+{
+	"name": "duotone",
+	"displayName": "Duotone Theme",
+	"description": "☯️Good Meets Evil In This New VScode Theme!",
+	"publisher": "husseinkizz",
+	"icon": "icon.png",
+	"license": "MIT",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Hussseinkizz/duotone"
+	},
+	"bugs": {
+		"url": "https://github.com/Hussseinkizz/duotone/issues"
+	},
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"scripts": {
+		"bundle": "vsce package",
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#0B1B33",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Duotone",
+		"Dark Theme",
+		"New Theme",
+		"Style Dictionary"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Duotone Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/duotone-dark.color-theme.json"
+			},
+			{
+				"label": "Duotone Light",
+				"uiTheme": "vs",
+				"path": "./themes/duotone-dark.color-theme.json"
+			}
+		]
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"chokidar-cli": "^2.0.0",
+		"style-dictionary": "^2.8.2"
+	},
+	"__metadata": {
+		"id": "ivqrmbgxpjfwvdnbugwpoochga5kxmfowqqzqdanoxvjdtjjnzmq",
+		"publisherDisplayName": "Hussein Kizz",
+		"publisherId": "husseinkizz"
+	}
+}
