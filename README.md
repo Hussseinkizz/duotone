@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/husseinkizz.duotone.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/husseinkizz.duotone.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone)
 
-![React screenshot of Duotone](images/react.png)
+![Preview](https://raw.githubusercontent.com/Hussseinkizz/duotone/main/images/react.png)
 
 **🔥 Good Meets Evil In This New VScode Theme!**
 
@@ -19,8 +19,9 @@
 7. Press **Ctrl + K + T** to show installed themes.
 8. Use arrow down/up keys to scroll through and select **Duotone**
 9. Hit enter and that's it!
+10. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
-10. **Optional:** Use the recommended settings below for best experience
+11. **Optional:** Use the recommended settings below for best experience
 
 ## Recommended Settings
 
