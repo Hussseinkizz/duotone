@@ -29,7 +29,7 @@
 {
   // Am using a free and open source font called Cascadia Code which comes with font ligatures and you can easily get it here: https://github.com/microsoft/cascadia-code
 
-    "workbench.colorTheme": "Duotone",
+    "workbench.colorTheme": "Duotone Dark", // or Duotone Light
     "editor.fontFamily": "'cascadia code'",
     "editor.fontLigatures": true,
     "liveServer.settings.donotShowInfoMsg": true,
